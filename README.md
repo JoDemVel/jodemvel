@@ -12,3 +12,9 @@ A software engineer with +2 years of experience working on backend, frontend and
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodemvel&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoDemVel/jodemvel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoDemVel/jodemvel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JoDemVel/jodemvel/output/github-snake.svg" />
+</picture>
